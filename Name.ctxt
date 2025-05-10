@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Name
+comment1.params=
+comment1.target=void\ main()
+comment1.text=void\ main()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ Scanner\ sc\=\ new\ Scanner(System.in);\n\ \ \ \ \ \ \ \ System.out.println("Enter\ any\ two\ number");\n\ \ \ \ \ \ \ \ int\ a\=sc.nextInt();\n\ \ \ \ \ \ \ \ int\ b\=sc.nextInt();\n\ \ \ \ \ \ \ \ if(a>b)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println(a+"is\ greater");\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ else\ if(a\=\=b)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("both\ are\ same");\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ else\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println(b+"is\ greater");\n\ \ \ \ \ \ \ \ }\n}
+comment2.params=n
+comment2.target=int\ fact(int)
+numComments=3
