@@ -25,10 +25,15 @@ class Array6
             
             if(n1==n2)
             {
-                c=0;
+                
                 if(arr1[i]>=arr2[i])
                 {
                     c=1;
+                }
+                else
+                {
+                    c=0;
+                    break;
                 }
             }
         }
